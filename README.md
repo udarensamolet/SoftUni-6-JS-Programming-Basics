@@ -6,7 +6,7 @@ Any feedback would be appreciated and feel free to borrow some code if you can't
 
 May the Force be with you!
 
-## 1 Intro to programming
+## 1 Intro to Programming
 ### Lab
 1.01. Hello SoftUni<br>
 1.02. Numbers From 1 to 10<br>
@@ -29,7 +29,7 @@ May the Force be with you!
 1.08. Basketball Equipment<br>
 1.09. Aquarium<br>
 
-## 2 Conditional statements
+## 2 Conditional Statements
 ### Lab
 2.01. Excellent Result<br>
 2.02. Bigger Number<br>
@@ -49,7 +49,7 @@ May the Force be with you!
 2.07. Shopping<br>
 2.08. Lunch Break<br>
 
-## 3 Conditional statements - Advanced
+## 3 Conditional Statements - Advanced
 ### Lab
 3.01. Day of Week<br>
 3.02. Weekend or Workday<br>
@@ -75,7 +75,7 @@ May the Force be with you!
 3.08. On Time for Exam<br>
 3.09. Ski Trip<br>
 
-## 4 For loop
+## 4 For Loop
 ### Lab
 4.01. Numbers from 1 to 100<br>
 4.02. Numbers from N to 1<br>
@@ -97,7 +97,7 @@ May the Force be with you!
 4.08. Tennis Ranklist<br>
 
 
-## 5 While
+## 5 While Loop
 ### Lab
 5.01. Read Text<br>
 5.02. Passwords<br>
@@ -117,7 +117,7 @@ May the Force be with you!
 5.06. Cake<br>
 5.07. Moving<br>
 
-## 6 Nested loops
+## 6 Nested Loops
 ### Lab
 6.01. Clock<br>
 6.02. Multiplication Table<br>
